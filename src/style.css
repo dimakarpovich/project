@@ -1,0 +1,23 @@
+body{
+    background-image: url(./image/1583482611_8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.title {
+    text-align: center;
+    
+}
+.btn {
+    width: 80px;
+    height: 40px;
+    color: #fff;
+
+}
+.col-6 {
+    font-weight: 700;
+}
+.table {
+    background-color: #fff;
+}
