@@ -15,9 +15,22 @@ body{
     color: #fff;
 
 }
+.btn-danger{
+    margin-right: 10px;
+}
+
+
 .col-6 {
     font-weight: 700;
 }
 .table {
     background-color: #fff;
+}
+.alert {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.hidden{
+    display: none;
 }
