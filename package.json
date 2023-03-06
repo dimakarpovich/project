@@ -6,7 +6,6 @@
   "scripts": {
     "built": "npx parcel build",
     "start": "npx parcel"
-    
   },
   "author": "Dima",
   "license": "ISC",
